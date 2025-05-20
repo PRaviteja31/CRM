@@ -9,6 +9,7 @@
 Customer Relationship Management (CRM) is a strategy used by businesses to manage interactions with current and potential customers. It involves using data and technology to improve customer relationships, enhance customer satisfaction, and increase sales.
 
 ---
+![Screenshot 2025-05-20 185906](https://github.com/user-attachments/assets/a5b76086-180d-48a3-8e44-ecaaf75cea06)
 
 **Core Components of CRM:**
 
@@ -39,6 +40,7 @@ Customer Relationship Management (CRM) is a strategy used by businesses to manag
 * **Higher Productivity:** Automation reduces repetitive tasks and saves time.
 
 ---
+![Screenshot 2025-05-20 185944](https://github.com/user-attachments/assets/007cc2e3-f572-4575-a46e-a6cc8e024cda)
 
 **Examples of CRM Software:**
 
@@ -47,7 +49,7 @@ Customer Relationship Management (CRM) is a strategy used by businesses to manag
 * Zoho CRM
 * Microsoft Dynamics 365
 * Freshsales
+![Screenshot 2025-05-20 190008](https://github.com/user-attachments/assets/394b599d-75f9-4ed8-9f2a-7c8c5a85e25f)
 
----
 
-Would you like me to export this into a downloadable `.docx` Word file?
+
